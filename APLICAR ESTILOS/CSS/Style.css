@@ -1,0 +1,115 @@
+
+.head{
+    background-color: brown;
+     width: 50%;
+       text-align: right;   
+         top: auto;
+          left: 9%;
+           bottom: 2%;
+             right: 10%;
+              font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+                font-style: initial;
+}
+
+
+
+#titulo{
+    background-color: aliceblue;
+      width: 20%;
+        margin: auto;
+           text-align: center;
+              padding: 1%;
+               top: auto;
+                 left: 8%;
+                   bottom: 1%;
+                       right: 5%;
+                         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+  color: blue;  
+  font-size: 10px;
+  top: auto;
+    left: 7%;
+    bottom: 3%;
+    right: 4%;
+}
+
+.div{
+ background-color: black;
+     width: 40%;
+         text-align: left;
+                top: auto;
+                    left: 6%;
+                        bottom: 5%;
+                              right: 10%;
+                              
+}
+
+#titulo{
+    background-color: blue;
+        width: 30%;
+         margin: auto;
+          text-align: justify;
+            padding: 2%;
+              top: auto;
+                left: 6%;
+                   bottom: 3%;
+                      right: 9%;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img{
+   color: #000;   
+      font: size 11px;
+        top: auto;
+         left: 6%;
+           bottom: 3%;
+              right: 9%;
+                @media screen (*visualizar imagen*){
+                    "breakpoint":480px, 768px ,1024px
+                       selettore{
+                           Propiedad:visualizar;
+                             }
+                                 h2 {
+                                   color: pink; 
+                             }
+                                  }
+}
+h1
+#titulo{
+    background-color: rgb(13, 196, 228);
+        width: 40%;
+         margin: auto;
+            text-align: justify;
+             padding: 5%; 
+               top: auto;
+                left: 6%;
+                 bottom: 3%;
+                  right: 9%;
+                   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+video{
+    background-color: rgb(113, 7, 252);
+       width: 50%;
+          margin: auto;
+            text-align: justify;
+               padding: 5%;
+                 top: auto;
+                   left: 6%;
+                      bottom: 3%;
+                        right: 9%;
+                         @media screen (*visualizar video*){
+                            "breakpoint":480px, 768px ,1024px
+                               selettore{
+                                  Propiedad:visualizar;
+                                  }
+                                    h2 {
+                                    color: orange; 
+                                     }
+                                       }
+    
+}
+
+
